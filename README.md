@@ -1,2 +1,0 @@
-# Sezzi
- CNN
